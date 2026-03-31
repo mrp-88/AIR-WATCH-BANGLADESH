@@ -64,7 +64,7 @@
 👉 [raunaqpreetom88.users.earthengine.app/view/air-watch-bangladesh](https://raunaqpreetom88.users.earthengine.app/view/air-watch-bangladesh)
 
 ### Option B: AI Dashboard with Emissions Assistant
-👉 [raunaqpreetom88.github.io/AirWatch-BD/](https://raunaqpreetom88.github.io/AirWatch-BD/)
+👉 [raunaqpreetom88.github.io/AirWatch-BD/]((https://mrp-88.github.io/AIR-WATCH-BANGLADESH/))
 
 ### Option C: Run in GEE Code Editor
 1. Open [GEE Code Editor](https://code.earthengine.google.com/)
