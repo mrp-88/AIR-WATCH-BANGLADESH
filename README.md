@@ -92,8 +92,7 @@ AirWatch-BD/
 
 - Junior Research Fellow, [SPARRSO](http://www.sparrso.gov.bd) (Space Research & Remote Sensing Organization), Bangladesh
 - Department of Environmental Science, Bangladesh University of Professionals (BUP)
-- President, BUP YouthMappers
-- Founder, QGIS Bangladesh User Group
+
 
 [![GitHub](https://img.shields.io/badge/GitHub-raunaqpreetom88-181717?style=flat-square&logo=github)](https://github.com/raunaqpreetom88)
 
